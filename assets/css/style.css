@@ -20,12 +20,20 @@
     width: 150px;
 }
 
+.color-blacK{
+    color: black;
+}
+
+.color-white{
+    color: white;
+}
+
 .font-size-graphic{
     font-size: 0.8rem;
 }
 
 .orizontal-line{
-    border: 2px solid white;
+    border: 2px solid;
     width: 85px;
 }
 
@@ -41,3 +49,9 @@
 }
 
 /* fine parte avatar */
+
+.image-width{
+    width: 100%;
+}
+
+/* image section completed */
